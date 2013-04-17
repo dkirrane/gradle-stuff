@@ -1,0 +1,7 @@
+
+MyFirstGradle/.gradle/
+MyFirstGradle/.idea/
+
+MyFirstGradle/.nb-gradle-properties
+
+*.iml
